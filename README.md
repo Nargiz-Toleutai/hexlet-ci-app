@@ -4,7 +4,7 @@ Starting boilerplate of [Strapi](https://strapi.io/) application
 
 ### GitHub Actions
 
-![Node.js.yaml](https://github.com/github/docs/actions/workflows/node.js.yml/badge.svg)
+![Node.js.yaml](https://github.com/github/docs/actions/workflows/node.js.yml/badge.svg?event=push)
 
 ## System requirements
 
