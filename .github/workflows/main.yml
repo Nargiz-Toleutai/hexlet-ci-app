@@ -18,7 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
-      - run: npm install sharp
+      - run: nvm use 14
       - run: npm run lint
       - name: run tests
         run: npm test
